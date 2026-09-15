@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated files
+results.json
+
+# Resume/test PDFs
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
